@@ -7,7 +7,7 @@ I'm currently focused on mastering key data engineering and analytics tools and 
 - **Docker**,
 - **Apache Airflow**,
 - **Apache Spark**,
-- **relational (PostgresSQL) & NoSQL databases (MongoDB)**
+- **relational (PostgreSQL) & NoSQL databases (MongoDB)**
   
 ## 📜 Certifications:
 - [**IBM Data Engineering Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/58OLWZXYZO3U)
