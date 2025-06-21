@@ -5,8 +5,10 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer currently training and bu
 I'm currently focused on mastering key data engineering and analytics tools and concepts, including:
 - **Python**, **SQL**
 - **ETL pipelines**
-- **Docker**, **Apache Airflow**
-- **Apache Spark**, **relational & NoSQL databases**
+- **Docker**,
+- **Apache Airflow**
+- **Apache Spark**,
+- **relational (PostgresSQL) & NoSQL databases (MongoDB)**
 - 
 ## 📜 Certifications:
 - [**IBM Data Engineering Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/58OLWZXYZO3U)
