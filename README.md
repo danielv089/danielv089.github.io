@@ -18,5 +18,5 @@ Through these projects, I aim to grow my expertise and gain practical experience
 
 Feel free to explore my work and connect if you want to collaborate or share insights!
 
-🔗 **Projects:**  
+## 🛠️ Projects:
 [Python ETL Project: Scraping, Transforming, and Loading Book Data](https://github.com/danielv089/bookstore-etl-pipeline-project)
