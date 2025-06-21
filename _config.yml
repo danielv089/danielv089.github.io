@@ -1,7 +1,15 @@
 title: Dániel Varga
-description: Data Engineering projects, tutorials, and code samples by Dániel Varga.
+description: Data Engineering and Analytics projects by Dániel Varga.
 theme: jekyll-theme-minimal
 
 
 url: "https://danielv089.github.io"
 baseurl: ""
+
+nav_links:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: About
+    url: /about/
