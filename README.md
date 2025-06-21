@@ -7,3 +7,5 @@ I’m focused on learning data engineering tools and techniques, including Pytho
 Through these projects, I aim to grow my expertise and gain practical experience in solving real-world data challenges.
 
 Feel free to explore my work and connect if you want to collaborate or share insights!
+
+[Python ETL Project: Scraping, Transforming, and Loading Book Data](https://github.com/danielv089/bookstore-etl-pipeline-project)
