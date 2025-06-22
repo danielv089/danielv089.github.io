@@ -16,6 +16,7 @@ I'm currently focused on mastering key data engineering and analytics tools and 
 - [**Google Advanced Data Analytics Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/UBPWPYFMME48)
 - [**Microsoft Power BI Data Analyst Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/8CD3MUYKQMMZ)
 - [**Building and Working with Relational Databases** – Illinois Tech](https://www.coursera.org/account/accomplishments/specialization/LN1W2USZO9TX)
+- [**Data Warehousing for Business Intelligence** - University of Colorado](https://www.coursera.org/account/accomplishments/specialization/JTNNT0IG1ZHY)
 
 Through these projects, I aim to grow my expertise and gain practical experience in solving real-world data challenges.
 Feel free to explore my work and connect if you want to collaborate or share insights!
