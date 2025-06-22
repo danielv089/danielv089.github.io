@@ -4,7 +4,7 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer currently training and bu
 I'm currently focused on mastering key data engineering and analytics tools and concepts, including:
 - **Python**, 
 - **SQL**,
-- **ETL pipelines**,
+- **ETL and ELT pipelines**,
 - **Docker**,
 - **Apache Airflow**,
 - **Apache Spark**,
