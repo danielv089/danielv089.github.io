@@ -1,5 +1,4 @@
 ---
-author: Dániel Varga
 url: "https://danielv089.github.io"
 markdown: kramdown
 ---
