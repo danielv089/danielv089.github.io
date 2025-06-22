@@ -3,10 +3,10 @@
 Hi! I’m **Dániel Varga**, an aspiring data engineer currently training and building hands-on projects to develop my skills.
 I'm currently focused on mastering key data engineering and analytics tools and concepts, including:
 
-**Languages:** Python, SQL, Bash  
-**Data Tools:** Airflow, Spark, Pandas, Power BI  
-**Databases:** PostgreSQL, MySQL, MongoDB
-**Cloud & DevOps:** AWS, Docker, Git  
+- **Languages:** Python, SQL, Bash  
+- **Data Tools:** Airflow, Spark, Pandas, Power BI  
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Cloud & DevOps:** AWS, Docker, Git  
 
   
 ## 📜 Certifications:
