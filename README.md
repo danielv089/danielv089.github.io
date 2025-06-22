@@ -5,7 +5,7 @@ I'm currently focused on mastering key data engineering and analytics tools and 
 
 **Languages:** Python, SQL, Bash  
 **Data Tools:** Airflow, Spark, Pandas, Power BI  
-**Databases:** PostgreSQL, MySQL, MongoDB, SQLite  
+**Databases:** PostgreSQL, MySQL, MongoDB
 **Cloud & DevOps:** AWS, Docker, Git  
 
   
