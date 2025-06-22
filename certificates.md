@@ -26,7 +26,6 @@ markdown: kramdown
 - [**AWS Fundamentals Specialization** - AWS](https://www.coursera.org/account/accomplishments/specialization/A8VD7WS4F7I0) – Completed: 27 March 2025
 - [**Docker Mastery: with Kubernetes +Swarm from a Docker Captain** - Udemy](https://www.udemy.com/certificate/UC-92c573e7-1d01-4f4b-bc2e-98d197d10ed0/) – Completed: 10 April 2025
 - [**Building and Working with Relational Databases Specializaton** - Illinois Tech](https://www.coursera.org/account/accomplishments/specialization/LN1W2USZO9TX) – Completed: 7 Jun 2025
-- [**Introduction to Linux (LFS101)** - The Linux Foundation](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/274ef670-88e7-42b8-b714-2723554601ed-dniel-varga-e03dec84-d6a3-493c-b62f-40faa9fa169b-certificate.pdf) – Completed: 12 December 2024
 
 ---
 
