@@ -1,3 +1,10 @@
+---
+title: Dániel Varga
+author: Dániel Varga
+url: "https://danielv089.github.io"
+markdown: kramdown
+---
+
 # 📜 Full Certification List
 
 - [**Data Scientist: Analytics Professional certificate** - CodeCademy](https://www.codecademy.com/profiles/digital1150256916/certificates/7dec503730a448c8b22bb251ada403f3) – Completed: 16 March 2024 
