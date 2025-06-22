@@ -6,7 +6,7 @@ markdown: kramdown
 
 # 📜 Full Certification List
 
-- [**Data Scientist: Analytics Professional certificate** - CodeCademy](https://www.codecademy.com/profiles/digital1150256916/certificates/7dec503730a448c8b22bb251ada403f3) – Completed: 16 March 2024 
+- [**Data Scientist: Analytics Professional Certificate** - CodeCademy](https://www.codecademy.com/profiles/digital1150256916/certificates/7dec503730a448c8b22bb251ada403f3) – Completed: 16 March 2024 
 - [**Introduction to Statistics** - Stanford University](https://www.coursera.org/account/accomplishments/verify/EW758DGF5NA6) – Completed: 7 April 2024
 - [**Python Data Visualization: Matplotlib & Seaborn Masterclass** - Udemy](https://www.udemy.com/certificate/UC-7f742bcf-815e-422a-aebd-3214f76ed30c/) – Completed: 3 May 2024
 - [**Google Advanced Data Analytics Professional Certificate** - Coursera](https://www.coursera.org/account/accomplishments/specialization/UBPWPYFMME48) – Completed: 22 June 2025
