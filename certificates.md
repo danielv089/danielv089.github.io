@@ -7,10 +7,10 @@
 - [**Microsoft Power BI Data Analyst** - Coursera](https://www.coursera.org/account/accomplishments/specialization/8CD3MUYKQMMZ) – Completed: 27 July 2024
 - [**SQL for Data Science Specialization** - University of California, Davis](https://www.coursera.org/account/accomplishments/verify/7TSDFELDHXMI) – Completed: 15 September 2024
 - [**Python, Bash and SQL Essentials for Data Engineering Specialization** - Duke University](https://www.coursera.org/account/accomplishments/specialization/GXB11INOIB2Z) – Completed: 22 September 2024
-- [** MySQL Database Administration: Beginner SQL Database Design** - Udemy](https://www.udemy.com/certificate/UC-3c80f57c-b104-4b59-8072-f2fd0ce575f9/) – Completed: 5 October 2024
+- [**MySQL Database Administration: Beginner SQL Database Design** - Udemy](https://www.udemy.com/certificate/UC-3c80f57c-b104-4b59-8072-f2fd0ce575f9/) – Completed: 5 October 2024
 - [**SQL Database Administration: Advanced MySQL Workbench** - Udemy](https://www.udemy.com/certificate/UC-8c011e4b-1c78-45bd-9b46-056854054725/) – Completed: 13 October 2024
 - [**Data Warehousing for Business Intelligence Specialization** - University of Colorado](https://www.coursera.org/account/accomplishments/specialization/JTNNT0IG1ZHY) – Completed: 4 December 2024
-- -[**Introduction to Linux (LFS101)** - The Linux Foundation](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/274ef670-88e7-42b8-b714-2723554601ed-dniel-varga-e03dec84-d6a3-493c-b62f-40faa9fa169b-certificate.pdf) – Completed: 12 December 2024
+- [**Introduction to Linux (LFS101)** - The Linux Foundation](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/274ef670-88e7-42b8-b714-2723554601ed-dniel-varga-e03dec84-d6a3-493c-b62f-40faa9fa169b-certificate.pdf) – Completed: 12 December 2024
 - [**Google IT Support Professional Certificate** - Coursera](https://www.coursera.org/account/accomplishments/specialization/ABZS4M1TASBW) – Completed: 21 December 2024
 - [**SQL and PostgreSQL: The Complete Developer's Guide** - Udemy](https://www.udemy.com/certificate/UC-f1433629-50e9-4c93-9a88-df18d4dda8f7/) – Completed: 23 January 2025
 - [**Python 3 Programming Specialization** - University of Michigan](https://www.coursera.org/account/accomplishments/specialization/U2TEIKADWSVT) – Completed: 29 January 2025
