@@ -8,7 +8,7 @@ I'm currently focused on mastering key data engineering and analytics tools and 
 - **Docker**,
 - **Apache Airflow**,
 - **Apache Spark**,
-- **relational database (PostgreSQL)**,
+- **relational databases (PostgreSQL)**,
 - **NoSQL databases (MongoDB)**
   
 ## 📜 Certifications:
