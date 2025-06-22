@@ -13,10 +13,11 @@ I'm currently focused on mastering key data engineering and analytics tools and 
 - [**IBM Data Engineering Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/58OLWZXYZO3U)
 - [**Google Advanced Data Analytics Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/UBPWPYFMME48)
 - [**Microsoft Power BI Data Analyst Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/8CD3MUYKQMMZ)
-- [**Python 3 Programming Specialization** - University of Michigan](https://www.coursera.org/account/accomplishments/specialization/U2TEIKADWSVT)
 - [**Building and Working with Relational Databases** – Illinois Tech](https://www.coursera.org/account/accomplishments/specialization/LN1W2USZO9TX)
 - [**Data Warehousing for Business Intelligence** - University of Colorado](https://www.coursera.org/account/accomplishments/specialization/JTNNT0IG1ZHY)
 - [**Docker Mastery** - Udemy](https://www.udemy.com/certificate/UC-92c573e7-1d01-4f4b-bc2e-98d197d10ed0/)
+
+[📚 All Courses & Certificates](certificates.md)
 
 ## 🛠️ Projects:
 Through these projects, I aim to grow my expertise and gain practical experience in solving real-world data challenges.
