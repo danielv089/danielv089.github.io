@@ -17,7 +17,7 @@ I'm currently focused on mastering key data engineering and analytics tools and 
 - [**Data Warehousing for Business Intelligence** - University of Colorado](https://www.coursera.org/account/accomplishments/specialization/JTNNT0IG1ZHY)
 - [**Docker Mastery** - Udemy](https://www.udemy.com/certificate/UC-92c573e7-1d01-4f4b-bc2e-98d197d10ed0/)
 
-  [📚** All Courses & Certificates**](certificates.md)
+  📚[**All Courses & Certificates**](certificates.md)
 
 ## 🛠️ Projects:
 Through these projects, I aim to grow my expertise and gain practical experience in solving real-world data challenges.
