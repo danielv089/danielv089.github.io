@@ -15,7 +15,7 @@ I'm currently focused on mastering key data engineering and analytics tools and 
 - [**Microsoft Power BI Data Analyst Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/8CD3MUYKQMMZ)
 - [**Building and Working with Relational Databases** – Illinois Tech](https://www.coursera.org/account/accomplishments/specialization/LN1W2USZO9TX)
 - [**Data Warehousing for Business Intelligence** - University of Colorado](https://www.coursera.org/account/accomplishments/specialization/JTNNT0IG1ZHY)
-- [**Astronomer Certification for Apache Airflow 3 Fundamentals** - Astronomer](https://www.credly.com/badges/2e0c98d0-6b0b-4daa-a8fb-e433570753b1/public_url)
+- [**Certification for Apache Airflow 3 Fundamentals** - Astronomer](https://www.credly.com/badges/2e0c98d0-6b0b-4daa-a8fb-e433570753b1/public_url)
 
 📚[**All Courses & Certificates**](certificates.md)
 
