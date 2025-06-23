@@ -24,7 +24,8 @@ markdown: kramdown
 - [**Google IT Automation with Python Professional Certificate** - Coursera](https://www.coursera.org/account/accomplishments/specialization/FPMNT72L6BR0) – Completed: 1 March 2025
 - [**AWS Fundamentals Specialization** - AWS](https://www.coursera.org/account/accomplishments/specialization/A8VD7WS4F7I0) – Completed: 27 March 2025
 - [**Docker Mastery: with Kubernetes +Swarm from a Docker Captain** - Udemy](https://www.udemy.com/certificate/UC-92c573e7-1d01-4f4b-bc2e-98d197d10ed0/) – Completed: 10 April 2025
-- [**Building and Working with Relational Databases Specializaton** - Illinois Tech](https://www.coursera.org/account/accomplishments/specialization/LN1W2USZO9TX) – Completed: 7 Jun 2025
+- [**Building and Working with Relational Databases Specializaton** - Illinois Tech](https://www.coursera.org/account/accomplishments/specialization/LN1W2USZO9TX) – Completed: 7 June 2025
+- [**Astronomer Certification for Apache Airflow 3 Fundamentals** - Astronomer](https://www.credly.com/badges/2e0c98d0-6b0b-4daa-a8fb-e433570753b1/public_url) – Completed: 23 June 2025
 
 ---
 
