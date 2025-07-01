@@ -26,7 +26,7 @@ Hi! I’m Dániel Varga, an aspiring data engineer with Environmental Engineerin
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. Feel free to explore my work and connect if you want to collaborate or share insights!
 
 ---
-📜 Selected Certifications:
+📜 **Selected Certifications:**
 
 - [**IBM Data Engineering Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/58OLWZXYZO3U)
 - [**Google Advanced Data Analytics Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/UBPWPYFMME48)
