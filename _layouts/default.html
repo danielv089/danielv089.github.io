@@ -12,9 +12,9 @@
     <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
     <title>
       {% if page.title == "Home" %}
-        {{ site.title }}
+        {{ site.data.settings.title }}
       {% else %}
-        {{ page.title }} | {{ site.title }}
+        {{ page.title }} | {{ site.data.settings.title }}
       {% endif %}
     </title>
     <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
@@ -39,3 +39,4 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </body>
 </html>
+
