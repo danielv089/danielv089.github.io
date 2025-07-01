@@ -11,7 +11,9 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
+  - name: 'ETL'
+    url: 'https://github.com/danielv089/bookstore-etl-pipeline-project/tree/main'
+    thumbnail: 'etl_project.jpg'
 #- {name: 'Project Two',   url: 'proj-2'}
 #- {name: 'Project Three', url: 'proj-3'}
 #- {name: 'Project Four',  url: 'proj-4'}
