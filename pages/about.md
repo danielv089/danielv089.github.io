@@ -21,7 +21,7 @@ Hi! I’m Dániel Varga, an aspiring data engineer with Environmental Engineerin
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/APACHE%20SPARK-white?style=for-the-badge&logo=apachespark)
+
 
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. Feel free to explore my work and connect if you want to collaborate or share insights!
 
