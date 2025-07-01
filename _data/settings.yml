@@ -21,10 +21,10 @@ projects:
 # Contact Section
 
 social:
-#- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+#- {icon: 'twitter',   link: ''}
+#- {icon: 'instagram', link: ''}
 - {icon: 'github',    link: 'https://github.com/danielv089'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/d%C3%A1niel-varga-598a93135/'}
 #- {icon: 'envelope',  link: 'mailto:mailto:@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
