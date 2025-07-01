@@ -14,7 +14,6 @@ projects:
   - name: 'Python ETL Project: Scraping, Transforming, and Loading Book Data'
     url: 'https://github.com/danielv089/bookstore-etl-pipeline-project/tree/main'
     thumbnail: 'etl_project.jpg'
-    description: 'A Python-based ETL pipeline that scrapes book data from a public website, cleans and transforms it, then loads it into a SQL DB.'
 
 
 
