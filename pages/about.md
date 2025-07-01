@@ -6,7 +6,7 @@ permalink: /about
 
 ## About Me
 
-Hi! I’m Dániel Varga, an aspiring data engineer with Environmental Engineering background. I am currently training and building hands-on projects to strengthen my skills, with a focus on mastering key tools and concepts in data engineering and data analytics including:
+Hi! I’m Dániel Varga, an aspiring data engineer with Environmental Engineering background. I am currently training and building hands-on projects to strengthen my skills, with a focus on mastering key tools and concepts in data engineering and data analytics, including:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
