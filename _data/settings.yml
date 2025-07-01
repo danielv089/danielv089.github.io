@@ -1,5 +1,6 @@
 #-------------------------------
 # General Site Settings
+title: Daniel Varga Portfolio
 
 menu:
 - {name: 'Projects', url: ''}
