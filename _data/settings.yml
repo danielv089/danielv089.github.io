@@ -14,6 +14,7 @@ projects:
   - name: 'ETL'
     url: 'https://github.com/danielv089/bookstore-etl-pipeline-project/tree/main'
     thumbnail: 'etl_project.jpg'
+    description: 'An ETL pipeline for bookstore data processing.'
 #- {name: 'Project Two',   url: 'proj-2'}
 #- {name: 'Project Three', url: 'proj-3'}
 #- {name: 'Project Four',  url: 'proj-4'}
