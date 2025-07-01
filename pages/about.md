@@ -10,6 +10,7 @@ Hi! I’m Dániel Varga, an aspiring data engineer with Environmental Engineerin
 
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. Feel free to explore my work and connect if you want to collaborate or share insights!
 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/APACHE%20SPARK-white?style=for-the-badge&logo=apachespark)
