@@ -1,15 +1,18 @@
 <section>
   <div class="project-container">
     {% for project in site.data.settings.projects %}
-      <a href="{{ project.url }}" target="_blank">
-        <div class="project-unit" style="background-image: url({{ site.github.url }}/assets/img/{{ project.thumbnail }})">
-          <div class="project-overlay">
-            <strong>{{ project.name }} <i class="fa fa-github" aria-hidden="true"></i></strong>
+      <div class="project-wrapper">
+        <a href="{{ project.url }}" target="_blank">
+          <div class="project-unit" style="background-image: url({{ site.github.url }}/assets/img/{{ project.thumbnail }})">
+            <div class="project-overlay">
+              <strong>{{ project.name }} <i class="fa fa-github" aria-hidden="true"></i></strong>
+            </div>
           </div>
-        </div>
+        </a>
         <p class="project-description">{{ project.description }}</p>
-      </a>
+      </div>
     {% endfor %}
   </div>
 </section>
+
 
