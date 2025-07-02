@@ -19,7 +19,7 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 💼**Contact**
 
 [![Static Badge](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/danielv089)
-[![Static Badge](https://www.linkedin.com/in/d%C3%A1niel-varga-598a93135/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)()
 
 ## 📜 Selected Certifications:
 - [**IBM Data Engineering Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/58OLWZXYZO3U)
