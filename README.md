@@ -16,7 +16,9 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+**Contact**
+[![Static Badge](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)
+](https://github.com/danielv089)
 
 ## 📜 Selected Certifications:
 - [**IBM Data Engineering Professional Certificate** – Coursera](https://www.coursera.org/account/accomplishments/specialization/58OLWZXYZO3U)
