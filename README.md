@@ -29,7 +29,7 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 - [**Data Warehousing for Business Intelligence** - University of Colorado](https://www.coursera.org/account/accomplishments/specialization/JTNNT0IG1ZHY)
 - [**Apache Airflow 3 Fundamentals** - Astronomer](https://www.credly.com/badges/2e0c98d0-6b0b-4daa-a8fb-e433570753b1/public_url)
 
-[![Courses](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)](certificates.md)
+[![Courses](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)](https://github.com/danielv089/danielv089/blob/main/CERTIFICATES.md)
 
 
 ## 🛠️ Projects:
