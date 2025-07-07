@@ -36,4 +36,7 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
 Feel free to explore my work and connect if you want to collaborate or share insights!
 
-- [**Python ETL Project: Scraping, Transforming, and Loading Book Data**](https://github.com/danielv089/bookstore-etl-pipeline-project)
+[![etl_project](https://img.shields.io/badge/Python%20ETL%20Project%3A%20Scraping%2C%20Transforming%2C%20and%20Loading%20Book%20Data-blue?style=for-the-badge)
+](https://github.com/danielv089/bookstore-etl-pipeline-project)
+
+A Python-based ETL pipeline that scrapes book data, transforms and normalizes it, then loads it into a PostgreSQL database using Docker Compose.
