@@ -31,7 +31,6 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 
 [![Courses](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)](https://github.com/danielv089/danielv089/blob/main/CERTIFICATES.md)
 
-
 ## 🛠️ Projects:
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
 Feel free to explore my work and connect if you want to collaborate or share insights!
@@ -39,3 +38,7 @@ Feel free to explore my work and connect if you want to collaborate or share ins
 - [**Python ETL Project: Scraping, Transforming, and Loading Book Data**](https://github.com/danielv089/bookstore-etl-pipeline-project)
 
    A Python-based ETL pipeline that scrapes book data, transforms and normalizes it, then loads it into a PostgreSQL database using Docker Compose.
+  
+- [**2022 Airlines Departure Data Warehouse in PostgreSQL**](https://github.com/danielv089/airlines-data-warehouse-pg)
+
+  PostgreSQL-based data warehouse project using the 2022 US Airlines Domestic Departure dataset.
