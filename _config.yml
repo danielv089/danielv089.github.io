@@ -1,4 +1,7 @@
-title: Dániel Varga
-author: Dániel Varga
+title: "Dániel Varga"
+description: "Data Engineer Portfolio"
+author: "Dániel Varga"
 url: "https://danielv089.github.io"
 markdown: kramdown
+remote_theme: pages-themes/midnight@v0.2.0
+
