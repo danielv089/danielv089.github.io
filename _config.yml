@@ -4,4 +4,8 @@ author: "Dániel Varga"
 url: "https://danielv089.github.io"
 markdown: kramdown
 remote_theme: pages-themes/midnight@v0.2.0
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
 
