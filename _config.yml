@@ -3,5 +3,5 @@ description: "Data Engineer Portfolio"
 author: "Dániel Varga"
 url: "https://danielv089.github.io"
 markdown: kramdown
-remote_theme: jekyll-theme-midnight
+remote_theme: midnight
 
