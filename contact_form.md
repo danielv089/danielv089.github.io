@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contact Form
+---
+
 <form action="https://formspree.io/f/xblzbjrp" method="POST">
   <label for="name">Name</label><br>
   <input type="text" id="name" name="name" required><br><br>
