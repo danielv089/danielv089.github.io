@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Contact Form
+layout: page
+title: Contact
+permalink: /contact/
 ---
 
 <form action="https://formspree.io/f/xblzbjrp" method="POST">
@@ -18,3 +19,5 @@ title: Contact Form
 
   <button type="submit">Send Message</button>
 </form>
+
+
