@@ -6,7 +6,7 @@ nav_order: 3
 
 # Python ETL Project: Scraping, Transforming, and Loading Book Data
 
-[![Static Badge](https://github.com/danielv089/bookstore-etl-pipeline-project)
+[![Static Badge](https://img.shields.io/badge/Open%20GitHub%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/danielv089/bookstore-etl-pipeline-project)
 
 ## 📌 Overview
 This project is a complete **ETL (Extract, Transform, Load) pipeline** built in Python, which prepares a structured dataset from an unstructured source.  
@@ -126,9 +126,6 @@ Key Features:
     ```bash
     docker run -it --rm -v "$PWD/data":/app/data -v "$PWD/logs":/app/logs v1.5_sqlite
      ```
-
-[![changelog](https://img.shields.io/badge/changelog-blue?style=for-the-badge)
-](CHANGELOG.md)
 
 ## 🗃️ ERD Diagram
 
