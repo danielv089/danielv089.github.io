@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # From API to Database: Dockerized Airflow ETL Pipeline for Weather Data
+
 ```
   ____________       _____________
  ____    |__( )_________  __/__  /________      __
