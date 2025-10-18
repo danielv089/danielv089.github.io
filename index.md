@@ -34,15 +34,15 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
 Feel free to explore my work and connect if you want to collaborate.
 
-- [**From API to Database: Dockerized Airflow ETL Pipeline for Weather Data**](de_projects/airflow-weather-data-pipeline.md)
+- [**From API to Database: Dockerized Airflow ETL Pipeline for Weather Data**](/de_projects/airflow-weather-data-pipeline.md)
 
   ETL pipeline implemented in Apache Airflow that exctracts data from OpenWeatherMap API, then process it in Python, and store it in a PostgreSQL database for analytics and reporting.
   The setup deployed in a multi-container Docker environment.
   
-- [**Python ETL Project: Scraping, Transforming, and Loading Book Data**](https://github.com/danielv089/bookstore-etl-pipeline-project)
+- [**Python ETL Project: Scraping, Transforming, and Loading Book Data**](/de_projects/bookstore-etl-pipeline.md)
 
    A Python-based ETL pipeline that scrapes book data, transforms and normalizes it, then loads it into a PostgreSQL database using Docker Compose.
   
-- [**2022 Airlines Departure Data Warehouse in PostgreSQL**](https://github.com/danielv089/airlines-data-warehouse-pg)
+- [**2022 Airlines Departure Data Warehouse in PostgreSQL**](/de_projects/airlines-data-warehouse-pg.md)
 
   PostgreSQL-based data warehouse project using the 2022 US Airlines Domestic Departure dataset.
