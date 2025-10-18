@@ -13,6 +13,8 @@ ___  ___ |  / _  /   _  __/ _  / / /_/ /_ |/ |/ /
  _/_/  |_/_/  /_/    /_/    /_/  \____/____/|__/
 ```
 
+[![Static Badge](https://img.shields.io/badge/Open%20GitHub%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/danielv089/airflow-weather-data-pipeline)
+
 ## 📌 Overview
 This project implements an ETL pipeline to fetch weather data from the OpenWeather API about main Polish cities, transform it and load the processed data into a PostgreSQL database. 
 
@@ -22,7 +24,7 @@ The entire workflow is containerized and deployed using a multi-container Docker
 
 The purpose of this project is to build a fully automated ETL pipeline for weather data using Apache Airflow for orchestration and Docker for containerized deployment. 
 
-![data_architecture](/docs/weather_data_architecture.jpg)
+![data_architecture](/de_projects/assets//airflow-weather-data-pipeline/weather_data_architecture.jpg)
 
 
 ## ⚙️ DAGs Overview
@@ -40,7 +42,7 @@ The db DAG scheduled to run every day before the main ETL pipeline to ensure an 
 - Create Schemas – staging and core.
 - Create Tables – Staging tables and core tables.
 
-![db_dag](/docs/weather_db.png)
+![db_dag](/de_projects/assets/airflow-weather-data-pipeline/weather_db.png)
 
 ### ⚙️ weather_data_etl – ETL Pipeline DAG
 
@@ -54,9 +56,9 @@ The main ETL DAG scheduled to run every day at 6:00 CET. Extract, transform, and
 - Load to Core – Populate core tables from staging.
 - Clean Staging – Truncate staging tables after successful ETL run.
 
-![etl_dag_1](/docs/weather_etl_1.png)
+![etl_dag_1](/de_projects/assets/airflow-weather-data-pipeline/weather_etl_1.png)
 
-![etl_dag_2](/docs/weather_etl_2.png)
+![etl_dag_2](/de_projects/assets/airflow-weather-data-pipeline/weather_etl_2.png)
 
 ## ▶️ How to Run
 
@@ -93,7 +95,7 @@ Additionally, set up an Airflow Variable called open_weather_api through the Air
 
 ## 🗃️ ERD Diagram
 
-![poland_weather_db](/docs/poland_weather_db.jpg)
+![poland_weather_db](/de_projects/assets/airflow-weather-data-pipeline/poland_weather_db.jpg)
 
 ## 🧰 Tech Stack
 
