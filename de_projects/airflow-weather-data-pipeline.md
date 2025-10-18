@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Airflow Weather Data Pipeline
-parent: Projects
-nav_order: 1
+nav_order: 2
 ---
 
 # From API to Database: Dockerized Airflow ETL Pipeline for Weather Data

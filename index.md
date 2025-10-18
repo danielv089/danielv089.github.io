@@ -34,7 +34,7 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
 Feel free to explore my work and connect if you want to collaborate.
 
-- [**From API to Database: Dockerized Airflow ETL Pipeline for Weather Data**](https://github.com/danielv089/airflow-weather-data-pipeline)
+- [**From API to Database: Dockerized Airflow ETL Pipeline for Weather Data**](de_projects/airflow-weather-data-pipeline.md)
 
   ETL pipeline implemented in Apache Airflow that exctracts data from OpenWeatherMap API, then process it in Python, and store it in a PostgreSQL database for analytics and reporting.
   The setup deployed in a multi-container Docker environment.
