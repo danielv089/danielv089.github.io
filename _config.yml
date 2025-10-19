@@ -5,4 +5,6 @@ url: "https://danielv089.github.io"
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
+back_to_top: true     
+footer_content: "© 2025 Dániel Varga"
 

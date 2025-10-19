@@ -4,6 +4,10 @@ title: Contact Form
 permalink: /contact/
 ---
 
+# 📡 Connect with Me
+
+Fill out the form below and I’ll respond as soon as possible.
+
 <form action="https://formspree.io/f/xblzbjrp" method="POST">
   <label for="name">Name</label><br>
   <input type="text" id="name" name="name" required><br><br>
