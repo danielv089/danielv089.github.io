@@ -31,7 +31,7 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/d%C3%A1niel-varga-598a93135/)
 [![Static Badge](https://img.shields.io/badge/%F0%9F%93%A1%20Connect%20with%20Me-green?style=for-the-badge)](contact_form.md)
 
-## 🛠️Featured Projects
+## 🛠️ Featured Projects
 
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
 Feel free to explore my work and connect if you want to collaborate.
