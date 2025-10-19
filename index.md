@@ -29,7 +29,7 @@ Hi! I’m **Dániel Varga**, an aspiring data engineer with Environmental Engine
 
 [![github](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/danielv089)
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/d%C3%A1niel-varga-598a93135/)
-[![Static Badge](https://img.shields.io/badge/%F0%9F%93%A1%20Connect%20with%20Me-green?style=for-the-badge)](/contact_form.md)
+[![contact_form](https://img.shields.io/badge/%F0%9F%93%A1%20Connect%20with%20Me-green?style=for-the-badge)](https://danielv089.github.io/contact/)
 
 ## 🛠️ Featured Projects
 
