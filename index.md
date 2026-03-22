@@ -41,4 +41,4 @@ Feel free to explore my work and connect if you want to collaborate.
 
 - [**2022 Airlines Departure Data Warehouse in PostgreSQL**](https://github.com/danielv089/airlines-data-warehouse-pg)
 
-  PostgreSQL-based data warehouse project using the 2022 US Airlines Domestic Departure dataset.
+  PostgreSQL-based data warehouse project using the 2022 US Airlines Domestic Departure dataset. Implemented Star schema design to enable efficient analytical queries.
