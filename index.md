@@ -12,7 +12,7 @@ Thank you for visiting my GitHub page.
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws,terraform&titles=true)
 
-### Contacts:
+
 
 [![github](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/danielv089)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/d%C3%A1niel-varga-598a93135/)
