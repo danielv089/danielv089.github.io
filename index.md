@@ -30,8 +30,11 @@ Thank you for visiting my GitHub page.
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws,terraform&titles=true)
 
-## 🛠️ Featured Projects
+## 💻  Tech Stack
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws,terraform&titles=true)
+
+## 🛠️  Featured Projects
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
 Feel free to explore my work and connect if you want to collaborate.
 
