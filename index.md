@@ -27,9 +27,6 @@ Thank you for visiting my GitHub page.
 [![Courses](https://img.shields.io/badge/All%20Courses%20%26%20Certificates-blue?style=for-the-badge)](https://github.com/danielv089/danielv089/blob/main/CERTIFICATES.md)
 [![aws_skills_profile](https://img.shields.io/badge/AWS%20Skills%20Profile-orange?style=for-the-badge)](https://skillsprofile.skillbuilder.aws/user/danielvarga/certification-badges)
 
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws,terraform&titles=true)
-
 ## 💻  Tech Stack
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,airflow,pyspark,bash,docker,linux,git,aws,terraform&titles=true)
