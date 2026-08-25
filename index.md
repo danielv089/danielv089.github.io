@@ -21,6 +21,7 @@ Thank you for visiting my GitHub page.
 [![SAA](/badges/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/d7422a48-c47b-4f49-b0fe-7a7b412cdf4e/public_url)
 [![CP](/badges/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/4f9db39f-a139-46c0-bd52-0784b6058115/public_url)
 [![TF](/badges/hashicorp-certified-terraform-associate-004.png)](https://www.credly.com/earner/earned/badge/c0c48683-4c6d-45f5-bcdd-c5bfc8ab2ebb)
+[![AZ](/badges/microsoft-certified-fundamentals-badge.png)](https://learn.microsoft.com/en-us/users/dnielvarga-0640/credentials/f6c33d243f1b7841?ref=https%3A%2F%2Fwww.credly.com%2F)
 [![DE](/badges/ibm-data-engineering-professional-certificate-v3.png)](https://www.credly.com/badges/39f11901-b018-4212-bd15-9b6aea63e2f3/public_url)
 [![DA](/badges/google-advanced-data-analytics-certificate.png)](https://www.credly.com/badges/7683c481-4869-4965-bb34-2b348dba3cf0/public_url)
 
@@ -47,7 +48,3 @@ Feel free to explore my work and connect if you want to collaborate.
 - [**Python ETL Project: Scraping, Transforming, and Loading Book Data**](/de_projects/bookstore-etl-pipeline.md)
 
    A Python-based ETL pipeline that scrapes book data, transforms and normalizes it, then loads it into a PostgreSQL database using Docker Compose.
-
-- [**2022 Airlines Departure Data Warehouse in PostgreSQL**](https://github.com/danielv089/airlines-data-warehouse-pg)
-
-  PostgreSQL-based data warehouse project using the 2022 US Airlines Domestic Departure dataset. Implemented Star schema design to enable efficient analytical queries.
