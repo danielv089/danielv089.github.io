@@ -36,15 +36,15 @@ Thank you for visiting my GitHub page.
 Through the projects featured on my site, I aim to grow my expertise and gain practical experience in solving real-world data challenges. 
 Feel free to explore my work and connect if you want to collaborate.
 
+- [**2022 Airlines Departure Data Lakehouse**](https://github.com/danielv089/airlines-domestic-departures-2022-lakehouse)
+
+   A batch lakehouse built on 2022 US domestic airline departure data, implementing a Medallion architecture with Delta Lake and orchestrated with Lakeflow on Databricks.
+
 - [**Drift Detective**](https://github.com/danielv089/drift-detective)
 
   Drift Detective is a Python library for tracking schema evolution and detecting structural drift in tabular datasets using versioned JSON snapshots.
 
-- [**From API to Database: Dockerized Airflow ETL Pipeline for Weather Data**](/de_projects/airflow-weather-data-pipeline.md)
+- [**From API to Database: Dockerized Airflow ETL Pipeline for Weather Data**](https://github.com/danielv089/airflow-weather-data-pipeline)
 
-  ETL pipeline implemented in Apache Airflow that exctracts data from OpenWeatherMap API, then process it in Python, and store it in a PostgreSQL database for analytics and reporting.
+  ETL pipeline implemented in Apache Airflow that extracts data from OpenWeatherMap API, then process it in Python, and store it in a PostgreSQL database for analytics and reporting.
   The setup deployed in a multi-container Docker environment.
-  
-- [**Python ETL Project: Scraping, Transforming, and Loading Book Data**](/de_projects/bookstore-etl-pipeline.md)
-
-   A Python-based ETL pipeline that scrapes book data, transforms and normalizes it, then loads it into a PostgreSQL database using Docker Compose.
